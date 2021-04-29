@@ -1,2 +1,3 @@
 # Algorithm  
-algorithm in Baekjoon
+algorithm in Baekjoon  
+prior language : Java
