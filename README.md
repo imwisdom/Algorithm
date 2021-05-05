@@ -1,3 +1,3 @@
 # Algorithm  
-my solved algorithm 
+my solved algorithm   
 prior language : Java
