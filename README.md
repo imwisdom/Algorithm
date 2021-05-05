@@ -1,3 +1,3 @@
 # Algorithm  
-algorithm in Baekjoon  
+my solved algorithm 
 prior language : Java
