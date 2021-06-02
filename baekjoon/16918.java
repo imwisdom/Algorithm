@@ -86,7 +86,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
         for(int i=0;i<R;i++){
             for(int j=0;j<C;j++){
-                sb.append(map[i][j]+" ");
+                sb.append(map[i][j]);
             }
             sb.append("\n");
         }
